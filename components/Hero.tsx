@@ -22,7 +22,7 @@ export default function Hero() {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-brand-50 border border-brand-100 text-brand-700 text-sm font-medium px-4 py-2 rounded-full mb-8">
             <span className="w-2 h-2 bg-brand-500 rounded-full animate-pulse" />
-            Trusted by 10,000+ teams worldwide
+            Trusted by 10,000+ teams worldwide changed
           </div>
 
           {/* Heading */}
